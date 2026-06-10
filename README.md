@@ -68,12 +68,6 @@ auth-mini-api/
 
 Create `.env`
 
-```env
-PORT=3000
-MONGODB_URL=mongodb://localhost:27017/auth-mini-api
-JWT_SECRET_KEY=auth_mini_api_secret
-JWT_EXPIRES_IN=1d
-```
 
 Check `.env.example` for reference.
 
